@@ -125,7 +125,7 @@ Using the highly accurate Facebook Prophet model, the analysis projects future g
 *   `Carbon Monoxide emissions.csv`: The raw input dataset.
 *   `country_coordinates.csv`: Helper file providing geographic coordinates for map generation.
 *   `requirements.txt`: A list of all Python libraries required to run the analysis.
-*   `CO_Emissions_Full_Report.html`: The final, self-contained HTML report with all findings and visualizations.
+*   `CO_Emissions_Full_Report.html`: Download this file to view—the final, self-contained HTML report with all findings and visualizations.
 *   `emitters_distribution_map.html`: An interactive map showing the geographic distribution of total emissions.
 *   `country_level_forecasts_2023-2035.csv`: A CSV file containing the emission forecasts for the top 10 countries.
 *   `README.md`: This summary file.
