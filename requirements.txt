@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+plotly
+tabulate
+ipython
+folium
+nbformat
+ipywidgets
+prophet
